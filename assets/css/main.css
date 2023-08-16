@@ -3317,3 +3317,11 @@ input, select, textarea {
 #titleBar .title a{
 		color:#f3ccd6;
 }
+.carousel-indicators li{
+	background-color: gray;
+	bottom: -65px;
+
+}
+.carousel-indicators .active{
+	background-color: #f3ccd6 !important;
+}
