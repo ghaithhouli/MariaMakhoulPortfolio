@@ -3325,6 +3325,3 @@ input, select, textarea {
 .carousel-indicators .active{
 	background-color: #f3ccd6 !important;
 }
-.modal-open .modal{
-	margin-top: 50px;
-}
