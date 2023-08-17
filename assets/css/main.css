@@ -2667,7 +2667,7 @@ input, select, textarea {
 			display: inline-block;
 			padding-right: 2.5em;
 			vertical-align: middle;
-			width: 48%;
+			width: 56%;
 		}
 
 			.features article .image img {
@@ -2678,7 +2678,7 @@ input, select, textarea {
 		.features article .inner {
 			display: inline-block;
 			vertical-align: middle;
-			width: 50%;
+			width: 43%;
 		}
 
 			.features article .inner > :last-child {
@@ -3165,7 +3165,7 @@ input, select, textarea {
 			.features article .image {
 				display: block;
 				margin: 0 0 2.25em 0;
-				padding-right: 0;
+				padding-right: 2.5rem;
 				width: 100%;
 			}
 
@@ -3324,4 +3324,7 @@ input, select, textarea {
 }
 .carousel-indicators .active{
 	background-color: #f3ccd6 !important;
+}
+.modal-open .modal{
+	margin-top: 50px;
 }
